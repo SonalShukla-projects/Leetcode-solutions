@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0283-move-zeroes](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -25,4 +26,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
