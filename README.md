@@ -53,5 +53,10 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
