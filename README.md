@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0189-rotate-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -19,6 +20,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0189-rotate-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
