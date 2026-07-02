@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -23,6 +24,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -50,6 +52,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0287-find-the-duplicate-number](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
