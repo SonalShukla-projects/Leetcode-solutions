@@ -29,6 +29,7 @@
 | [0189-rotate-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0344-reverse-string](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,4 +73,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0125-valid-palindrome](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
+| [0344-reverse-string](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
