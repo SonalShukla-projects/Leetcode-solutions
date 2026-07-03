@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0053-maximum-subarray](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -24,6 +25,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
@@ -51,6 +53,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0442-find-all-duplicates-in-an-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0977-squares-of-a-sorted-array/) | Easy |
