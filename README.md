@@ -37,6 +37,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0189-rotate-array](https://github.com/SonalShukla-projects/Leetcode-solutions/tree/main/0189-rotate-array/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
